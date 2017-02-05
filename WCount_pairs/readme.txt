@@ -1,0 +1,1 @@
+hadoop jar WordCountPair.jar input/ output

@@ -1,0 +1,1 @@
+hadoop jar VotingCount.jar input/ output
